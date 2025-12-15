@@ -1,10 +1,10 @@
-# KOSTO
+# KOSTO 💵
 
-## Descripcion
+## Descripcion 📋
 
 kosto es una api para la gestion de gastos personales construido en el lenguaje de programacion c# como un proyecto web API utilizando la arquitectura <strong>ONION</strong> para dividir las responsabilidades de nuestra aplicacion
 
-## Funcionalidades
+## Funcionalidades 🔧
 
 El proyecto nos permite gestionar nuestros gastos mediante:
 
@@ -16,7 +16,7 @@ El proyecto nos permite gestionar nuestros gastos mediante:
 
 - Autenticacion: Este proyecto utiliza JSON Web Tokens ( JWT ) para la authenticacion de usuarios.
 
-## Arquitectura
+## Arquitectura 🏗️
 
 Como mencionamos anteriormente, nuestro proyecto esta basado en la arquitectura ONION en la cual dividimos nuestro proyecto en 4 capas escenciales:
 
@@ -45,7 +45,7 @@ Kosto/
 
 Cada capa con su responsabilidad asignada que se intercomunican entre si para que la aplicacion pueda funcionar
 
-## Configuraciones para funcionamiento
+## Configuraciones para funcionamiento ⚙️
 
 Para usar esta aplicacion para modificaciones a gusto en local lo unico que tenemos que hacer es bajar este repositorio y una vez lo tengamos y lo queramos ejecutar solo tendremos que colocar en la terminal el comando:
 
