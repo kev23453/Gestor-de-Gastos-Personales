@@ -54,12 +54,13 @@ Dotnet run
 ``` 
 > **IMPORTANTE:** Debemos tener instalado **dotnet** (Plataforma para construir aplicaciones en c#) en nuestro ordenador.
 
-En el caso de la base de datos lo unico que debemos hacer es irnos a **SQL SERVER**, localizar el archivo con la extension .bak y ejecutar el comando:
+En el caso de la base de datos lo unico que debemos hacer es irnos a **SQL SERVER**, y ejecutar los comandos que se encuentran en la carpeta **Database/**:
 
-``` SQL
-RESTORE DATABASE KOSTO
-FROM DISK='RUTA_DE_MI_ARCHIVO.BAK'
-WITH REPLACE -- en caso de que ya la hubieramos tenido anteriormente
+``` 
+Database/
+    01_create_database.sql
+    02_create_tables.sql
+    ...
 ```
 Por ultimo nos vamos al archivo de **appsettings.json** y modificamos las siguientes lineas:
 
