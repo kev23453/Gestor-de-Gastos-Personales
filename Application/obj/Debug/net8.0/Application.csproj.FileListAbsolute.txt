@@ -1,0 +1,15 @@
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\bin\Debug\net8.0\Application.dll
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\bin\Debug\net8.0\Dominio.dll
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\bin\Debug\net8.0\Dominio.pdb
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\obj\Debug\net8.0\Application.dll
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Application\obj\Debug\net8.0\ref\Application.dll

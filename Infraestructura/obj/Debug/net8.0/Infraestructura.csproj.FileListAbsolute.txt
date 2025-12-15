@@ -1,0 +1,17 @@
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\bin\Debug\net8.0\Infraestructura.deps.json
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\bin\Debug\net8.0\Infraestructura.dll
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\bin\Debug\net8.0\Infraestructura.pdb
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\bin\Debug\net8.0\Application.dll
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\bin\Debug\net8.0\Dominio.dll
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\bin\Debug\net8.0\Application.pdb
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\bin\Debug\net8.0\Dominio.pdb
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\obj\Debug\net8.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfo.cs
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\obj\Debug\net8.0\Infraest.8F2C356E.Up2Date
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\obj\Debug\net8.0\Infraestructura.dll
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\obj\Debug\net8.0\refint\Infraestructura.dll
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\obj\Debug\net8.0\Infraestructura.pdb
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Infraestructura\obj\Debug\net8.0\ref\Infraestructura.dll

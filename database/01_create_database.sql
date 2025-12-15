@@ -1,0 +1,5 @@
+CREATE DATABASE Kosto
+GO
+
+use Kosto
+GO

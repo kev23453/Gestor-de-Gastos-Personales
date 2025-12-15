@@ -1,0 +1,11 @@
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Users\mr_ga\Documents\ITLA TAREAS INGENIERIA SOFTWARE\PROGRAMACION 2\Kosto\KostoBack\Dominio\obj\Debug\net8.0\ref\Dominio.dll
